@@ -1,4 +1,3 @@
 # Symulator
-Symulator
 
-JFC and Swing
+Implementation is focused mainly in the Swing component
